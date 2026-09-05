@@ -14,6 +14,7 @@ stated in the text: "the original research had never been built to be retraceabl
 applications and systems out can help log and track every step made by a researcher, it makes me wonder
 how data was lost if there are so many systems at the fingertips of those who need it. How was the data
 being tracked and stored to be so easily lost or too vague to recover? 
+  
   I have to say, I really am a bit nervous to get into all of this. Looking at all of the coding, systems, 
 and software required just to get started is a bit overwhelming for someone like me who is all too 
 unfamiliar with all of this! It’s like learning an entirely new language. I recognize my learning curve and 
