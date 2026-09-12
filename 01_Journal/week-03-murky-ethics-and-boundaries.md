@@ -21,5 +21,5 @@ researchers in a bit of a different light--as it starts to seem as though the bo
 really there--and if it is at all, it's vague and messy, and the risk of the effect of 
 consumers and audiences doesn't seem to play into the bigger picture. It makes me wonder:
 who really is doing these data collections and research studies in a truly ethical way? Is it
-even possible to be ethical about something that, just in is existance of needing information
+even possible to be ethical about something that, just in is existence of needing information
 to produce a result, is invasive? Much to think about.
