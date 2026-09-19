@@ -1,4 +1,4 @@
-# Week NN Journal: <Repetition, Gaps, and Never-Ending Findings>
+# Week 04 Journal: <Repetition, Gaps, and Never-Ending Findings>
 
 
 
