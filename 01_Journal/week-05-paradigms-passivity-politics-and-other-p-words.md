@@ -1,4 +1,4 @@
-# Week NN Journal: <Paradigms, Passivity, Politics, and other P words.>
+# Week 05 Journal: <Paradigms, Passivity, Politics, and other P words.>
 
 **Reading:** <Chapter 5: Theory as a Lens>
 **Date:** <2026-09-25>
