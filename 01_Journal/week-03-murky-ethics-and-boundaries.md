@@ -1,4 +1,4 @@
-# Week NN Journal: <When Ethics & Boundaries Get Murky>
+# Week 03 Journal: <When Ethics & Boundaries Get Murky>
 
 **Reading:** <Chapter 3: Knowing and Knowing Well>
 **Date:** <2026-09-11>
