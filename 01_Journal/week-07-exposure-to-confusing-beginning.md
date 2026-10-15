@@ -1,4 +1,4 @@
-# Week NN Journal: <Initial Exposure to a Confusing Beginning>
+# Week 07 Journal: <Initial Exposure to a Confusing Beginning>
 
 **Reading:** <Chapter 7: Structured Listening>
 **Date:** <2026-10-07>
